@@ -13,3 +13,7 @@ function event_play_oneshot(event_path) {
 function event_isplaying(event_handle) {
 	return (fmod_event_getPlaybackState(event_handle) == FMOD_STUDIO_PLAYBACK_PLAYING);
 }
+function event_isstarting(arg0)
+{
+    return fmod_event_getPlaybackState(arg0) == 3;
+}
