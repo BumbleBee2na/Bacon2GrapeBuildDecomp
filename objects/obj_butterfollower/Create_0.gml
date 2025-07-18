@@ -1,0 +1,10 @@
+event_inherited();
+spr_intro = spr_butterbuddy_talk;
+spr_idle = spr_butterfollower_idle;
+spr_walk = spr_butterfollower_idle;
+sprite_index = spr_idle;
+ogx = x;
+ogy = y;
+depth = 1;
+image_speed = 0.35;
+flame = 60;

@@ -1,0 +1,18 @@
+spr_walk = spr_meat_walk;
+spr_scared = spr_meat_scared;
+spr_dead = spr_meat_dead;
+spr_stun = spr_meat_stun;
+scr_collision_init();
+state = UnknownEnum.Value_33;
+scaredtimer = 0;
+xscale = sign(image_xscale);
+grav = 0.5;
+movespeed = 0;
+image_speed = 0.35;
+stunbuffer = 15;
+hitHsp = 0;
+hitVsp = 0;
+event_inherited();
+hitX = y;
+hitY = x;
+hitstuntimer = 0;

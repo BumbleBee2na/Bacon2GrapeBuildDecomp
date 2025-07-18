@@ -1,0 +1,17 @@
+cam_tar = obj_player;
+xoffset = 0;
+index = 0;
+shake = 0;
+shake_mag = 0;
+lock = false;
+collectshake = 0;
+collectables = ds_list_create();
+escapeshake = 0;
+zoomw = obj_screensizer.displayWidth;
+zoomh = obj_screensizer.displayHeight;
+global.Grank = global.Brank / 2;
+global.Lrank = global.Grank / 2;
+global.Erank = global.Lrank / 2;
+rankScale = 1;
+previousRank = 0;
+collectEntire = global.collect + obj_player.combopoint;

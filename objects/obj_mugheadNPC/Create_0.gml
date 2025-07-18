@@ -1,0 +1,17 @@
+active = 0;
+image_speed = 1;
+spr_idle = spr_mughead_sleep;
+spr_talk = spr_mughead_talk;
+borderTargetpos = -160;
+borderX = 32 + wave(-2, 2, 4, 0);
+borderY = borderTargetpos;
+borderscaleYmult = 1;
+borderVsp = 0;
+borderpart = 0;
+text = "Im a placeholder";
+depth = 10;
+scribble_anim_wave(1, 3, 1);
+voice = fmod_createEventInstance("event:/Sfx/General/granny");
+surf = surface_create(895.999968, 140.16 * borderscaleYmult);
+clip = surface_create(895.999968, 140.16 * borderscaleYmult);
+BGX = 0;

@@ -1,0 +1,12 @@
+event_inherited();
+spr_intro = spr_toppin1_intro;
+spr_idle = spr_toppin1_idle;
+spr_walk = spr_toppin1_move;
+global.collect += 1000;
+global.toppincount += 1;
+scr_transfotip(string("/sYou've Found {0} Grosslins out of 5", global.toppincount));
+sprite_index = spr_intro;
+ogx = x;
+ogy = y;
+depth = 1;
+image_speed = 0.35;

@@ -1,0 +1,43 @@
+/*
+ KEY GUIDE
+ ----
+ [U] = Arriba
+ [D] = Abajo
+ [L] = Izquierda
+ [R] = Derecha
+ [Q] = Shift
+ [J] = Saltar
+ [G] = Agarre
+ [T] = Taunt
+ [S] = Start
+*/
+
+
+
+//Nothing
+language=es
+
+// Hub Garbage
+grandmug_garbage1=Compre el Teraleak de Bacon2 y me estafaron, por favor dame dinero
+grandmug_garbage2=Ough necesito un trago...
+grandmug_garbage3=Creo que deje mi botella de agua por aqui.
+grandmug_garbage4=Escucha niño, se que esto no esta relacionado pero... necesito tu ayuda ahora mismo.
+grandmug_garbage5=Sabias que tu ni siquiera existes? Que desgracia.
+grandmug_garbage6=Presionar [J] y [T] hace absolutamente NADA!, sabias eso?
+grandmug_garbage7=Ando con el resfriado, estoy bien enferma
+
+// Tutorial
+tutorial1=Hey ahi pequeño, Se que has estado aqui antes pero hay que volver a lo basico denuevo. Puedes presionar [D] para agacharte y [J] para saltar.
+tutorial2=Para correr debes dejar presionado [Q] Puedes dar una paliza a traves de enemigos y tal con esto. Manteniendo la direcion que estas mirando hace que vayas aun mas rapido.
+tutorial3=Si quieres romper a traves de las cajas fuerte debes estar a una maxima velocidad, No tan rapido como cuando estaba en vietnam!
+tutorial4=Saltar en paredes mientras andas corriendo deja que las escales. Presionando [J] mientras corres en las paredes te da un boost hacia la otra direcion.
+tutorial5=Correr en pendientes tambien te acelera la velocidad.
+tutorial6=Saltando con [J] y presionando [D] deja que hagas el maravilloso movimiento de golpear el suelo. Esto tambien rompe bloques!
+
+// Hub Tips
+grandmug_tip1=Tienes muchos movimientos, pruebalos! quizas creas un nuevo meta.... El Meta de Bacon2 incluso..
+grandmug_tip2=Cuando andes rodando presiona [j] instantaneamente para saltar en un movimiento de giro!
+			  
+// Captions    
+caption_hub=Deambulando con el Bacon2
+caption_rockbottom=Esperando el bus aqui junto a mi amigo el Bacon2

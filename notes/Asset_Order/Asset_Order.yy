@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"Asset_Order",
+  "name":"Asset_Order",
+  "parent":{
+    "name":"DecompilerGenerated",
+    "path":"folders/DecompilerGenerated.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,1 @@
+targetRoom = radiation_1;

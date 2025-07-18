@@ -1,0 +1,42 @@
+/*
+ KEY GUIDE
+ ----
+ [U] = Cima
+ [D] = Baixo
+ [L] = Esquerda
+ [R] = Direita
+ [Q] = Shift
+ [J] = Correr
+ [G] = Agarrão
+ [T] = Provocar
+ [S] = Start
+*/
+
+
+
+//Nothing
+language=br
+
+// Hub Garbage
+grandmug_garbage1=Eu comprei um TeraLeak de Bacon2 mas cai em um golpe, por favor me da uma grana.
+grandmug_garbage2=Cara... Eu preciso de uma bebida.
+grandmug_garbage3=Eu acho que deixei minha garrafa de água aqui.
+grandmug_garbage4=Olha Maninho, eu sei que isso não tem nada a ver, mas eu realmente preciso muito da sua ajuda agora.
+grandmug_garbage5=Você sabia que você não é real? Que pena.
+grandmug_garbage6=Apertando [J] e [T] não faz absolutamente nada, você sabia dessa?
+grandmug_garbage7=Peguei um resfriado, eu todo ferrado!
+
+// Tutorial
+tutorial1=Ae rapaiz, Eu sei que você já esteve aqui antes mas vamos rever os básicos novamente. Você pode pressionar [D} para agachar e [J] Para pular.
+tutorial2=Para correr você tem que segurar [Q] você pode atropelar inimigos e mais com isso. Segurar a direção que você esta indo faz você pegar velocidade mais rápido.
+tutorial3=Se você quer passar pelos cofres você precisa estar bem rápido, Não tão rápido quanto eu era no Vietnam!
+tutorial4=Pular nas paredes enquanto corre faz você escalar elas. Pressionando [J] enquanto escala faz você impulsionar para a direção ao contrária.
+tutorial5=Correr ladeira abaixo faz você ir mais rápido.
+tutorial6=Pular com [J] e pressionar [D] deixa você fazer a fabulosa 'cabeçada no chão.' Isso também quebra blocos!
+// Hub Tips
+grandmug_tip1=Você tem muitos truques na manga, experimente-os! Talvez seja o novo meta.. meta Bacon2 até..
+grandmug_tip2=Você pode rolar e pressionar [J] para pular em um truque giratório!
+
+// Captions
+caption_hub=Vagando por ai com Bacon2
+caption_rockbottom=Esperando por um busão com Bacon2

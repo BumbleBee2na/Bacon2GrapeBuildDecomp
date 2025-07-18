@@ -1,0 +1,43 @@
+/*
+ KEY GUIDE
+ ----
+ [U] = Up
+ [D] = Down
+ [L] = Left
+ [R] = Right
+ [Q] = Shift
+ [J] = Jump
+ [G] = Grab
+ [T] = Taunt
+ [S] = Start
+*/
+
+
+
+//Nothing
+language=en
+
+// Hub Garbage
+grandmug_garbage1=I bought Bacon2 Teraleak and i got scammed, please give me money
+grandmug_garbage2=Ough I need a drink...
+grandmug_garbage3=I think I left my bottle of water here.
+grandmug_garbage4=Listen kid, I know this is unrelated, but I need your help right now.
+grandmug_garbage5=Did you know you arnt even real? What a shame.
+grandmug_garbage6=Pressing [J] and [T] does nothing, did you know that?
+grandmug_garbage7=Ive got a cold, im pretty sick
+
+// Tutorial
+tutorial1=Hey there kid, I know you've been here before but we're gonna go over the basics again. You can press [D] to crouch and [J] To jump.
+tutorial2=To run you must hold down [Q] You can bash through enemies and such with this. Holding the direction you're facing also lets you build up speed faster.
+tutorial3=If you wanna break through safes you must be at top speeds, Not as fast as I was back at vietnam though!
+tutorial4=Jumping on walls also while mach running lets you scale them. Pressing [J] while wall running boosts you to the other direction.
+tutorial5=Running on slopes also lets you accelerate faster.
+tutorial6=Jumping with [J] and pressing [D] lets you do the fabled 'pound the ground move.' This also breaks blocks!
+
+// Hub Tips
+grandmug_tip1=You have many moves, try them out! Maybe make a new meta.. Bacon2 Meta even..
+grandmug_tip2=You can roll and instantly hit [J] to jump into the spin move!
+
+// Captions
+caption_hub=Wandering Around with Bacon2
+caption_rockbottom=Waiting for a bus with Bacon2
